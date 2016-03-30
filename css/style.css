@@ -11,8 +11,12 @@ nav .brand-logo {
   color: #444;
 }
 
+#href {
+  font-color: #ffffff;
+}
+
 body {
-    background-image: url("images/chameleon.png");
+    background-image: url("../images/chameleon.png");
     background-color: #ffffff;
 }
 
